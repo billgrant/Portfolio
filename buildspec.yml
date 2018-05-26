@@ -1,0 +1,12 @@
+version: 0.1
+
+phases:
+  build:
+    commands:
+      - echo nothing to do stylesheet
+artifacts:
+  - index.html
+  - favicon.ico
+  - billgrant_resume.pdf
+  - styles/*
+  - images/*
