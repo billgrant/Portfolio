@@ -5,6 +5,7 @@ phases:
     commands:
       - echo nothing to do stylesheet
 artifacts:
+  files:
   - index.html
   - favicon.ico
   - billgrant_resume.pdf
