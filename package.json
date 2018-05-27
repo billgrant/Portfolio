@@ -1,0 +1,32 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack",
+    "webpack-watch": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billgrant/portfolio.git"
+  },
+  "author": "Bill Grant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/billgrant/portfolio/issues"
+  },
+  "homepage": "https://github.com/billgrant/portfolio#readme",
+  "dependencies": {
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^4.9.1",
+    "webpack-cli": "^2.1.4"
+  }
+}
