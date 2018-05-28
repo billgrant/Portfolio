@@ -20,7 +20,7 @@ const myWork = [
     }
   },
   {
-    'title': "Cloud Architecture",
+    'title': "infrastructure",
     'image': {
       'desc': "Screenshot of a project involving infrastructure",
       'src': "images/example3.png",
